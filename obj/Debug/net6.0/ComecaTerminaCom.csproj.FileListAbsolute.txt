@@ -1,0 +1,15 @@
+C:\Users\Daniele\ComecaTerminaCom\bin\Debug\net6.0\ComecaTerminaCom.exe
+C:\Users\Daniele\ComecaTerminaCom\bin\Debug\net6.0\ComecaTerminaCom.deps.json
+C:\Users\Daniele\ComecaTerminaCom\bin\Debug\net6.0\ComecaTerminaCom.runtimeconfig.json
+C:\Users\Daniele\ComecaTerminaCom\bin\Debug\net6.0\ComecaTerminaCom.dll
+C:\Users\Daniele\ComecaTerminaCom\bin\Debug\net6.0\ComecaTerminaCom.pdb
+C:\Users\Daniele\ComecaTerminaCom\obj\Debug\net6.0\ComecaTerminaCom.csproj.AssemblyReference.cache
+C:\Users\Daniele\ComecaTerminaCom\obj\Debug\net6.0\ComecaTerminaCom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniele\ComecaTerminaCom\obj\Debug\net6.0\ComecaTerminaCom.AssemblyInfoInputs.cache
+C:\Users\Daniele\ComecaTerminaCom\obj\Debug\net6.0\ComecaTerminaCom.AssemblyInfo.cs
+C:\Users\Daniele\ComecaTerminaCom\obj\Debug\net6.0\ComecaTerminaCom.csproj.CoreCompileInputs.cache
+C:\Users\Daniele\ComecaTerminaCom\obj\Debug\net6.0\ComecaTerminaCom.dll
+C:\Users\Daniele\ComecaTerminaCom\obj\Debug\net6.0\refint\ComecaTerminaCom.dll
+C:\Users\Daniele\ComecaTerminaCom\obj\Debug\net6.0\ComecaTerminaCom.pdb
+C:\Users\Daniele\ComecaTerminaCom\obj\Debug\net6.0\ComecaTerminaCom.genruntimeconfig.cache
+C:\Users\Daniele\ComecaTerminaCom\obj\Debug\net6.0\ref\ComecaTerminaCom.dll
